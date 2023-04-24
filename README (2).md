@@ -24,5 +24,6 @@ Capital Assest Pricing Model (CAPM) | Amazon
 7.Overall, our analysis suggests that Amazon's stock is fairly priced relative to its risk, based on the CAPM model. However, it's important to note that CAPM has its limitations and should be used in conjunction with other valuation models and analysis.
 ## Authors
 
-- [@rajeshchary1999](https://github.com/rajeshchary1999)
+- [@rajeshchary1999](https://github.com/rajeshchary1999)\
+- BYE
 
